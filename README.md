@@ -1,1 +1,5 @@
-# CS-255-SAD
+This project aimed to design a comprehensive program dedicated to helping students succeed in their tests. The students could study, take practice tests, and schedule their official exam all within the DriverPass interface. The interface could be accessed via any device and was web-based to allow for easier access anywhere worldwide. 
+
+This project was done in collaboration with the client, and their needs were interpreted using a template document detailing their requirements and various system design diagrams detailing potential use cases, interactions, and timelines of development. These were done very well and showed how a few use cases would operate, and how specific activities functioned within the system. This is imperative when deciding how to present the designs to both the client and development team, and coming to a consensus. These techniques proved to be very helpful in visually displaying requirements and will be beneficial in future projects when deciding the next steps.
+
+If redoing this project was an option, I would try to collect the business requirements in more detail. If they were captured using a more specific language then it could have taken the guesswork out of a few designs and diagrams when revisiting the business requirements document. 
